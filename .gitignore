@@ -1,0 +1,7 @@
+*.egg*
+*.pyc
+.pytest_cache*
+.tox
+.coverage
+build
+dist
