@@ -1,7 +1,7 @@
 """ Calc code example """
 
 
-class Calc():
+class Calc(object):
     """ Calculator Class """
 
     def __init__(self, first, second):
